@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My name is Thomas Young-Audet
 
+Take a look at my repositories! There's of all sorts in there.
+You can also take a look at my resume [here](https://drive.google.com/file/d/1s8_IDnkK8Kn6j-5jKJw3j_FrhfyIFSB-/view?usp=sharing).
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasyoung-audet)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **thomasyoung-audet/thomasyoung-audet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
